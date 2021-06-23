@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "7E5-CW-P3a"; */
+"7E5-CW-P3a.text" = "is really";
+
+/* Class = "UITabBarItem"; title = "BNR"; ObjectID = "8gb-f5-3II"; */
+"8gb-f5-3II.title" = "BNR";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "UQm-VY-DYi"; */
+"UQm-VY-DYi.text" = "100";
+
+/* Class = "UILabel"; text = "degrees Celcius"; ObjectID = "YPq-md-vdm"; */
+"YPq-md-vdm.text" = "degrees Celcius";
+
+/* Class = "UIButton"; normalTitle = "My Location"; ObjectID = "e9E-FY-rOy"; */
+"e9E-FY-rOy.normalTitle" = "My Location";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "q0B-s1-E6i"; */
+"q0B-s1-E6i.title" = "Convert";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "rpv-iK-hnE"; */
+"rpv-iK-hnE.text" = "degrees Fahrenheit";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "sga-mm-ZYL"; */
+"sga-mm-ZYL.placeholder" = "Value";
+
+/* Class = "UIViewController"; title = "MapViewController"; ObjectID = "uUm-oW-4Xb"; */
+"uUm-oW-4Xb.title" = "MapViewController";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "vCM-TB-hQy"; */
+"vCM-TB-hQy.title" = "Map";
